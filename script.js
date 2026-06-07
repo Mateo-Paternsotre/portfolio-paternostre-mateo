@@ -33,7 +33,7 @@ window.addEventListener('resize', updateNavIndicatorOnEvent);
 const projectsData = {
     'zelda': {
         title: 'Zelda Sheikah Slate',
-        description: 'Projet visant à recréer les modules de la tablette Sheika de Zelda Breath of the Wild. Ce projet inclut la reprogrammation des runes, l\'interface utilisateur et les mécaniques de gameplay associées.',
+        description: 'School project to recreate a gameplay mechanic of my choice. My goal was to reproduce the Sheikah Slate from Breath of the Wild with its 4 iconic modules: Bombs, Stasis, Magnesis and Cryonis. Made in about two months, while working on other exams and school projects at the same time',
         images: ['images/ZeldaSheikaSlate.png', 'images/PRES/Zelda BOTW - Preview (1).jpg', 'images/PRES/Zelda BOTW - Preview (2).jpg', 'images/PRES/Zelda BOTW - Preview (3).jpg'],
         youtube: 'https://youtu.be/EwNxTo2MaCk',
         github: 'https://github.com/Mateo-Paternsotre/UE5.6_ZeldaBOTW_Mechanics'
@@ -79,7 +79,7 @@ const gamesData = {
         category: 'Technical Demo',
         icon: 'images/FDT_Icon.png',
         screenshots: ['images/SuperSonic.png', 'images/PRES/Flash - Preview (1).jpg', 'images/PRES/Flash - Preview (2).jpg', 'images/PRES/Flash - Preview (3).jpg'],
-        link: 'https://youtu.be/2AChNaf9f1s'
+        link: 'https://mat-developpe.itch.io/the-flash-demo-technique'
     },
     'game-jam-b1': {
         title: 'One Elf Army',
